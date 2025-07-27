@@ -30,42 +30,6 @@ This notebook demonstrates the basic structure and implementation of Polynomial 
    jupyter notebook Polynomial\ Regression\ Template.ipynb
 
 
-
----
-
-## 📄 2. `Copy of Polynomial Regression Working Copy (Salary Data - After SVR).ipynb`
-
-### `README_Polynomial_Salary_Working_Copy.md`
-```markdown
-# Polynomial Regression on Salary Dataset
-
-This notebook contains a detailed polynomial regression example using a salary dataset. It explores how polynomial regression can model non-linear relationships in salary prediction and compares it to SVR (Support Vector Regression).
-
----
-
-## 📌 What It Covers
-
-- Loading and exploring salary data
-- Using `PolynomialFeatures` for non-linear transformation
-- Training a polynomial regression model
-- Plotting the prediction curve
-- Predicting salaries based on new inputs
-
----
-
-## 📊 Dataset
-
-The data includes salary levels and corresponding salaries. The goal is to model the non-linear relationship between the two.
-
----
-
-## 🧰 Technologies
-
-- Python 3.x
-- pandas
-- matplotlib
-- scikit-learn
-
 ---
 
 ## 🚀 How to Run
